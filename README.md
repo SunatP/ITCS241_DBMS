@@ -9,5 +9,5 @@
 ----
 ### Update Class 
  1. Intro DB (Week 1)
-    * [Lecture 1](https://github.com/SunatP/ITCS343_OS/tree/master/Week1)
+    * [Lecture 1](https://github.com/SunatP/ITCS241_DBMS/tree/master/Week1)
  
