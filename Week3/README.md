@@ -1,13 +1,10 @@
 # Week 3 Data Models
+
 # DB Topics
-
-## Part 1 How To develop data model for business application
-   1. Data Models
-   2. Entity-Relationship Model
-   3. Relational Data Model 
-----
-
-#### Note!!! Better Design is efficient for reading DB and Easy to edit 
+  -  Part 1 How To develop data model for business application
+     1. Data Models
+     2. Entity-Relationship Model
+     3. Relational Data Model 
 
 ## Learning Outcomes
   - At the end of session you'll be able to
