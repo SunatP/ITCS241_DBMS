@@ -2,7 +2,7 @@
 
 # DB Topics
   -  Part 1 How To develop data model for business application
-     1. Data Models
+     1. Data Models : >>>[Click](https://github.com/SunatP/ITCS241_DBMS/tree/master/Week3#data-modeling-and-data-models)<<<
      2. Entity-Relationship Model
      3. Relational Data Model 
 
