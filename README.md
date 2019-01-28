@@ -8,6 +8,7 @@
 * Final Exam 30%
 ----
 ### Update Class 
- 1. Intro DB (Week 1)
-    * [Lecture 1](https://github.com/SunatP/ITCS241_DBMS/tree/master/Week1)
- 
+ 1. Intro DB (Week 2)
+    * [Lecture 2](https://github.com/SunatP/ITCS241_DBMS/tree/master/Week2)
+ 2. Data Models (Week 3)
+    * [Lecture 3](https://github.com/SunatP/ITCS241_DBMS/tree/master/Week3)

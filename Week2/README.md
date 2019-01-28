@@ -1,4 +1,4 @@
-# Week 1 Intro to Database
+# Week 2 Intro to Database
 # DB Topics
 
 ## Part 1 How To develop data model for business application
