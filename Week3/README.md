@@ -68,7 +68,7 @@ world -> ***"distinguishable"***
 ![1](http://www.tbacud.ac.th/caidb/images/1.jpg)
         - **ความสัมพันธ์แบบหนึ่งต่อกลุ่ม (One-to-many Relationships)** เป็นการแสดงความสัมพันธ์ของข้อมูลในเอนทิตี้หนึ่ง ที่มีความสัมพันธ์กับข้อมูลหลาย ๆ ข้อมูลในอีกเอนทิตี้หนึ่ง ในลักษณะ (1:m)  
 ![2](https://sites.google.com/a/nbr.ac.th/krucom-it/_/rsrc/1484017632484/khlang-bthkhwam/khwamsamphanthrelationships/IMG20161030110832.png)
-        - **ความสัมพันธ์แบบกลุ่มต่อกลุ่ม (Many-to-many Relationships)**เป็นการแสดงความสัมพันธ์ของข้อมูลสองเอนทิตี้ในลักษณะกลุ่มต่อกลุ่ม (m:n)
+        - **ความสัมพันธ์แบบกลุ่มต่อกลุ่ม (Many-to-many Relationships)** เป็นการแสดงความสัมพันธ์ของข้อมูลสองเอนทิตี้ในลักษณะกลุ่มต่อกลุ่ม (m:n)
 ![3](https://sites.google.com/a/nbr.ac.th/krucom-it/_/rsrc/1484017632484/khlang-bthkhwam/khwamsamphanthrelationships/IMG20161030111037.png) 
 
   - **Entity**
